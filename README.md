@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Bruna 😁
 
 - 🌱 Estudando testes de software
-- 👯 Procuro colaborar como QA em projetos de testes manuais e com automação
+- 👯 Procuro colaborar como QA em projetos de testes manuais e automatizados
 - 📫 Contate-me no e-mail: befzacarias@gmail.com
 <div>
   <a href="[https://](https://github.com/brunafzacarias)">
